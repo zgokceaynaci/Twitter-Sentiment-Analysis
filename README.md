@@ -81,8 +81,8 @@ The best-performing model was Artificial Neural Networks (ANN) with an accuracy 
 The dataset consists of three sources:
 
 1. **Sentiment140 Dataset** ([Kaggle](https://www.kaggle.com/datasets/kazanova/sentiment140))
-2. **Twitter Sentiment Analysis Dataset** ([Kaggle](https://www.kaggle.com/datasets/abdallahwagih/twitter-sentiment-analysis))
-3. **Twitter Validation Set** ([Kaggle](https://www.kaggle.com/datasets/muhammadimran112233/eda-twitter-sentiment-analysis-using-nn))
+2. **Twitter Sentiment Analysis Dataset** ([Kaggle](https://www.kaggle.com/code/abdallahwagih/twitter-sentiment-analysis/notebook))
+3. **Twitter Validation Set** ([Kaggle](https://www.kaggle.com/code/muhammadimran112233/eda-twitter-sentiment-analysis-using-nn/notebook))
 
 ### 📈 **Data Preprocessing Steps**
 - Removed unnecessary columns (IDs, timestamps, usernames)
@@ -102,7 +102,7 @@ The best-performing model was Artificial Neural Networks (ANN) with an accuracy 
 
 - **scikit-learn**: [Machine Learning in Python](https://scikit-learn.org/stable/)
 - **TensorFlow**: [Building Deep Learning Models](https://www.tensorflow.org/)
-- **Kaggle Datasets** (linked above)
+- **Kaggle Datasets**
 
 ## 🤝 Contributions
 Feel free to fork this repository and submit pull requests. Contributions are always welcome!
