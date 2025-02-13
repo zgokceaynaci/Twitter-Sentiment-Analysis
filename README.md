@@ -16,9 +16,6 @@ The dataset is sourced from multiple Kaggle repositories and contains over 1.5 m
 - **Matplotlib & Seaborn** (Data Visualization)
 - **TF-IDF Vectorization**
 
-## 📂 Project Structure
-📁 twitter-sentiment-analysis │── 📂 data # (Dataset is not included in this repo) │── 📂 notebooks # Jupyter Notebooks for experiments │── 📂 src # Source code for preprocessing and training │── requirements.txt # Python dependencies │── .gitignore # Ignore unnecessary files │── README.md # Project documentation
-
 
 ## 🔧 Installation & Usage
 ### 1️⃣ Clone the Repository
