@@ -1,0 +1,14 @@
+# Ignore dataset CSV files
+datasets/*.csv
+datasets/*.json
+datasets/*.zip
+
+# Ignore virtual environment
+.venv/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
