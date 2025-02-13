@@ -36,6 +36,7 @@ The dataset is sourced from multiple Kaggle repositories and contains over 1.5 m
 | k-NN                | 87.43%   | 88.00%    | 87.00%  | 87.50%   |
 | Decision Tree       | 80.22%   | 80.00%    | 80.00%  | 80.00%   |
 
+The best-performing model was Artificial Neural Networks (ANN) with an accuracy of 90.00%.
 
 ## 📢 Future Improvements
 -Implement deep learning models such as BERT or RoBERTa for better sentiment understanding.
