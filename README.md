@@ -81,13 +81,8 @@ This script will:
 | ANN                 | 90.00%   | 89.50%    | 89.00% | 89.25%   |
 | k-NN                | 87.43%   | 88.00%    | 87.00% | 87.50%   |
 | Decision Tree       | 80.22%   | 80.00%    | 80.00% | 80.00%   |
+
 The best-performing model was Artificial Neural Networks (ANN) with an accuracy of 90.00%.
-
-## 📢 Future Improvements
--Implement deep learning models such as BERT or RoBERTa for better sentiment understanding.
-
--Use more advanced NLP techniques like word embeddings and transformers
-## 📊 Dataset Information
 
 ### 📌 **Dataset Sources**
 
@@ -98,7 +93,6 @@ The dataset consists of three sources:
 3. **Twitter Validation Set** ([Kaggle](https://www.kaggle.com/datasets/muhammadimran112233/eda-twitter-sentiment-analysis-using-nn))
 
 ### 📈 **Data Preprocessing Steps**
-
 - Removed unnecessary columns (IDs, timestamps, usernames)
 - Cleaned text (lowercasing, punctuation removal, extra spaces)
 - Standardized sentiment labels to numerical values (0 = Negative, 1 = Neutral, 2 = Positive)
@@ -107,9 +101,6 @@ The dataset consists of three sources:
 The best-performing model was Artificial Neural Networks (ANN) with an accuracy of 90.00%.
 
 ## 🚀 Future Improvements
-## 📢 Future Improvements
--Implement deep learning models such as BERT or RoBERTa for better sentiment understanding.
-
 - Implement **BERT** or **RoBERTa** for advanced NLP modeling
 - Utilize **word embeddings** instead of TF-IDF
 - Collect real-time Twitter data and update model dynamically
@@ -122,10 +113,8 @@ The best-performing model was Artificial Neural Networks (ANN) with an accuracy 
 - **Kaggle Datasets** (linked above)
 
 ## 🤝 Contributions
-
 Feel free to fork this repository and submit pull requests. Contributions are always welcome!
 
 ## 📜 License
-
 This project is licensed under the MIT License.
 
