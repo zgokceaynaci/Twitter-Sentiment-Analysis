@@ -16,13 +16,6 @@ The dataset is sourced from multiple Kaggle repositories and contains over 1.5 m
 - **Pandas & NumPy** (Data Processing)
 - **Matplotlib & Seaborn** (Data Visualization)
 - **TF-IDF Vectorization**
-
-## 🔧 Installation & Usage
-### 1️⃣ Clone the Repository
-    git clone https://github.com/your-username/twitter-sentiment-analysis.git
-    cd twitter-sentiment-analysis
-### 2️⃣ Install Dependencies
-
 - **Google Colab** (Model Training & Experiments)
 
 ## 📂 Project Structure
@@ -67,7 +60,6 @@ This script will:
 - Standardize sentiment labels
 - Save the cleaned dataset as `final_cleaned_dataset.csv`
 
-    pip install -r requirements.txt
 ### 3️⃣ Run the Model
     python src/preprocessing.py
     python src/train_model.py
