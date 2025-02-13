@@ -22,14 +22,11 @@ The dataset is sourced from multiple Kaggle repositories and contains over 1.5 m
 
 ## 🔧 Installation & Usage
 ### 1️⃣ Clone the Repository
-    ```bash
     git clone https://github.com/your-username/twitter-sentiment-analysis.git
     cd twitter-sentiment-analysis
 ### 2️⃣ Install Dependencies
-    ```bash
     pip install -r requirements.txt
 ### 3️⃣ Run the Model
-    ```bash
     python src/preprocessing.py
     python src/train_model.py
 ## 🏆 Results & Performance
